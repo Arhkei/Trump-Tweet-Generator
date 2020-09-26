@@ -1,0 +1,11 @@
+# Trump Tweet Machine Learning/trumpTweetGenerator.py: 3
+pywin32 == 228
+
+# Trump Tweet Machine Learning/trumpTweetGenerator.py: 11
+textgenrnn == 2.0.0
+
+# Trump Tweet Machine Learning/trumpTweetGenerator.py: 3
+win32compat == 221.26
+
+# Trump Tweet Machine Learning/trumpTweetGenerator.py: 3
+win32ext == 221.2
